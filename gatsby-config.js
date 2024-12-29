@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Velvori`,
+    description: `Get your comfort back with our products. Your Comfort, Our Aim.`,
+    author: `@velvori`,
+    siteUrl: `https://samirkhan21860.github.io/velvori`,
   },
   plugins: [
     'gatsby-plugin-postcss',
